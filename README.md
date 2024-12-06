@@ -1,16 +1,23 @@
-# online-library-php-mysql-html-css
-Simple online library with php, mysql,html,css,and js. good interactive pages with simple and sleek design.
-------------------------------------------------------------------------------------
-step:1 download
-step2: configure wamp/xamp or lamp
-step4: mysql phpmyadmin --> import sql db
-step5: keep the files onplace and run index.html
+Developed with PHP, MySQL, HTML, CSS, and JavaScript, this system includes sleek and interactive pages for a clean and user-friendly experience.
 
-admin login id: admin
-password : admin
+Setup Instructions:
 
+Download
+Download the project files to your local system.
 
------------------------------------------copyright-----------------------
+Configure Environment
+Set up your local server using WAMP, XAMPP, or LAMP as per your operating system.
 
+Database Setup
 
---------------------------------------------jj------------------------------------------------
+Open phpMyAdmin via your local server.
+Create a new database.
+Import the provided SQL file into the newly created database.
+File Placement
+
+Place the project files in the appropriate directory of your server (e.g., htdocs for XAMPP or www for WAMP/LAMP).
+Open your browser and navigate to http://localhost/{project-folder}/index.html.
+Admin Login Credentials:
+
+Username: admin
+Password: admin
